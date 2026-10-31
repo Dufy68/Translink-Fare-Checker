@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+archive/
+private/
+uploads/
+rsconnect/
+*.log
